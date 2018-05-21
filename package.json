@@ -11,7 +11,8 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "mpvue": "^1.0.10"
+    "mpvue": "^1.0.10",
+    "minapp-api-promise": "^1.0.2"
   },
   "devDependencies": {
     "mpvue-loader": "^1.0.14",
